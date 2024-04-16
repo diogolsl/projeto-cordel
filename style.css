@@ -63,6 +63,11 @@ section.imagem{
   background-attachment: fixed;
   background-size: cover;
 }
+section.imagem > p{
+    background-color: rgba(0, 0, 0, 0.411);
+    padding: 5px;
+    display: inline-block;
+}
 footer{
     background-color: black;
     color: #FFFFFF;
