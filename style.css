@@ -47,7 +47,7 @@ section {
     font-size: 3.5vw;
     line-height: 2em;
     padding-left: 30px;
-    padding-top: 10vh;
+    padding-top: 15vh;
     padding-bottom: 10vh;
 }
 section#img1{
@@ -70,6 +70,9 @@ section.imagem > p{
 }
 section.normal{
     padding-bottom: 0vh;
+}
+section#primeiro{
+    padding-top: 10vh;
 }
 section#ultimo{
     padding-bottom: 20vh;
