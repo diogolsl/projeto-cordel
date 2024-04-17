@@ -68,6 +68,9 @@ section.imagem > p{
     padding: 5px;
     display: inline-block;
 }
+section.normal{
+    padding-bottom: 0vh;
+}
 footer{
     background-color: black;
     color: #FFFFFF;
